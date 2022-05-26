@@ -52,6 +52,7 @@ namespace ConsoleApp7
             Console.WriteLine("______________________________");
             Console.WriteLine("#############################");
         }
+
         // Не работате метод для получения прибыли
         //public int getProfit(int a, int b, int c, int d)
         //{
