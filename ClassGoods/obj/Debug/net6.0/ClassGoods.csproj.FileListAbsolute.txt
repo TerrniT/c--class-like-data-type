@@ -1,0 +1,15 @@
+C:\Users\super\OneDrive\Рабочий стол\Лабораторные работы по C#\Класс как тип данных\ClassGoods\ClassGoods\bin\Debug\net6.0\ClassGoods.exe
+C:\Users\super\OneDrive\Рабочий стол\Лабораторные работы по C#\Класс как тип данных\ClassGoods\ClassGoods\bin\Debug\net6.0\ClassGoods.deps.json
+C:\Users\super\OneDrive\Рабочий стол\Лабораторные работы по C#\Класс как тип данных\ClassGoods\ClassGoods\bin\Debug\net6.0\ClassGoods.runtimeconfig.json
+C:\Users\super\OneDrive\Рабочий стол\Лабораторные работы по C#\Класс как тип данных\ClassGoods\ClassGoods\bin\Debug\net6.0\ClassGoods.dll
+C:\Users\super\OneDrive\Рабочий стол\Лабораторные работы по C#\Класс как тип данных\ClassGoods\ClassGoods\bin\Debug\net6.0\ClassGoods.pdb
+C:\Users\super\OneDrive\Рабочий стол\Лабораторные работы по C#\Класс как тип данных\ClassGoods\ClassGoods\obj\Debug\net6.0\ClassGoods.csproj.AssemblyReference.cache
+C:\Users\super\OneDrive\Рабочий стол\Лабораторные работы по C#\Класс как тип данных\ClassGoods\ClassGoods\obj\Debug\net6.0\ClassGoods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\super\OneDrive\Рабочий стол\Лабораторные работы по C#\Класс как тип данных\ClassGoods\ClassGoods\obj\Debug\net6.0\ClassGoods.AssemblyInfoInputs.cache
+C:\Users\super\OneDrive\Рабочий стол\Лабораторные работы по C#\Класс как тип данных\ClassGoods\ClassGoods\obj\Debug\net6.0\ClassGoods.AssemblyInfo.cs
+C:\Users\super\OneDrive\Рабочий стол\Лабораторные работы по C#\Класс как тип данных\ClassGoods\ClassGoods\obj\Debug\net6.0\ClassGoods.csproj.CoreCompileInputs.cache
+C:\Users\super\OneDrive\Рабочий стол\Лабораторные работы по C#\Класс как тип данных\ClassGoods\ClassGoods\obj\Debug\net6.0\ClassGoods.dll
+C:\Users\super\OneDrive\Рабочий стол\Лабораторные работы по C#\Класс как тип данных\ClassGoods\ClassGoods\obj\Debug\net6.0\refint\ClassGoods.dll
+C:\Users\super\OneDrive\Рабочий стол\Лабораторные работы по C#\Класс как тип данных\ClassGoods\ClassGoods\obj\Debug\net6.0\ClassGoods.pdb
+C:\Users\super\OneDrive\Рабочий стол\Лабораторные работы по C#\Класс как тип данных\ClassGoods\ClassGoods\obj\Debug\net6.0\ClassGoods.genruntimeconfig.cache
+C:\Users\super\OneDrive\Рабочий стол\Лабораторные работы по C#\Класс как тип данных\ClassGoods\ClassGoods\obj\Debug\net6.0\ref\ClassGoods.dll
